@@ -1,0 +1,15 @@
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\bin\Debug\net7.0\TODOAssignment.exe
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\bin\Debug\net7.0\TODOAssignment.deps.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\bin\Debug\net7.0\TODOAssignment.runtimeconfig.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\bin\Debug\net7.0\TODOAssignment.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\bin\Debug\net7.0\TODOAssignment.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.csproj.AssemblyReference.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.AssemblyInfoInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.AssemblyInfo.cs
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\refint\TODOAssignment.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\TODOAssignment.genruntimeconfig.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\TODOAssignment\TODOAssignment\obj\Debug\net7.0\ref\TODOAssignment.dll
